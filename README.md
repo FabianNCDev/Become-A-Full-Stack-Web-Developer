@@ -1,4 +1,4 @@
-## 100+ Free resources for learning Full Stack Web Development.
+## 100+ Recursos Gratuitos para ser un Desarrollador Web Full Stack
 
 The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
 
