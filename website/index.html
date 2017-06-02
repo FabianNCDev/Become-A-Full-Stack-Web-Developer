@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es"> <!-- idioma del contenido-->
+  <head>
+    <!-- información general del documento para motores de busqueda -->
+    <meta charset="utf-8"/>
+    <meta name="description" content="esta mi primera pagina web"/>
+    <meta name="keywords" content="web, html, css, javascript, pagina web"/>
+
+    <title>Este es el Título del Documento</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+
+    <div class="agrupar">
+        <header class="cabecera">
+          <h1>Este es la Cabecera</h1>
+        </header>
+
+        <nav class="menu">
+          <ul>
+            <li><a href="#">principal</a></li>
+            <li>fotos</li>
+            <li>videos</li>
+            <li>contacto</li>
+          </ul>
+        </nav>
+
+        <section class="seccion">
+          <article> <!--contenido independiente-->
+            <header>
+              <hgroup> <!--recrea las jerarquias de las cabeceras, las agrupa-->
+                <h1>Titulo el primer Mensaje</h1>
+                <h2>Subtitulo del primer Mensaje</h2>
+                <time datetime="2011-10-12" pubdate>ppubliado 12-10-2017 </time>
+              </hgroup>
+            </header>
+            <p>Este es el texto del primer mensjae</p>
+            <p>la etiqueta <mark>mark</mark> resalta un
+              texto que antes no era considerado importate,
+              pero que ahora si deacuerdo a las acciones del usuario,
+              mientras que ates se usaba la eqtiqueta <b>b</b> para tener
+              resultados simialares
+            </p>
+            <!-- identifica contenido que es parte de la info pero independiente -->
+            <figure>
+              <img src="img/Fazt-logo.png" alt="Logo de Fazt">
+              <figcaption>
+                esta es la imagen del primer mensaje
+              </figcaption>
+            </figure>
+            <footer>
+              <p>Comentarios (0)</p>
+            </footer>
+          </article>
+          <article>
+            <header>
+              <h1>Titulo del segundo Mensaje</h1>
+              <h2>Subtitulo del primer Mensaje</h2>
+            </header>
+            <p>Este es el texto del primer mensjae</p>
+            <p>Es genial la Tecnología <cite>HTML</cite></p>
+            <p>la etiqueta <em>em</em> es para indicar enfasis
+            reemplazando a la etiqueta i, que actualmente se usa
+            para iconos</p>
+            <p>ademas tenemos la etiqueta <strong>strong</strong>
+            que indica importancia, mientras que mark resalta texto
+            deacuerdo a las circunstancias y <b>b</b> solo deberia
+            ser usado cuando no hay otro elemento para la situacion</p>
+            <footer>
+              <address class="">
+                <a href="http://faztweb.com" target="_blank">FaztWeb</a>
+              </address>
+              <p>Comentarios (0)</p>
+            </footer>
+          </article>
+        </section>
+
+        <aside class="columna">
+          <blockquote cite="http://">
+            Mensaje Numero Uno
+          </blockquote>
+          <blockquote cite="http://">
+            Mensaje Numero Dos
+          </blockquote>
+        </aside>
+
+        <footer class="pie">
+          <!-- small representa letra pequeña como impresiones legales, etc -->
+          <small>Copyright (c) 2016 Copyright Holder All Rights Reserved.</small>
+        </footer>
+    </div>
+    <script src="http://localhost:35729/livereload.js" charset="utf-8"></script>
+  </body>
+</html>

@@ -1,0 +1,153 @@
+/* generales*/
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header, section, footer, aside, nav, article, figure, figcaption, hgroup {
+  display: block;
+}
+
+body {
+  background: #eee;
+  text-align: center;
+}
+
+h1 {
+  font: bold 20px verdana, sans-serif;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 20px;
+  font-family: verdana, sans-serif;
+}
+
+/* estilos estructurales*/
+.agrupar {
+  background: #fff;
+  border: 1px solid #000;
+  width: 90%;
+  margin: 15px auto;
+  text-align: left;
+}
+
+/* cabecera */
+
+.cabecera {
+  background: #fffbb9;
+  border: 1px solid #999999;
+  padding: 20px;
+}
+
+@media (max-width:768px) {
+  .cabecera {
+    text-align: center;
+  }
+}
+
+/* menu */
+.menu {
+  background: #ccc;
+  padding: 5px 15px;
+}
+
+.menu li {
+  display: inline-block;
+  padding: 5px;
+  list-style: none;
+  font: bold 14px verdana, sans-serif;
+}
+
+.menu li:hover {
+  background: #fff;
+  color: #000;
+  cursor: pointer;
+  width: 20%;
+  text-align: center;
+}
+
+.menu li a {
+  display: block;
+  text-decoration: none;
+}
+
+@media (max-width:768px) {
+  .menu {
+    text-align: center;
+  }
+}
+
+/* seccion principal */
+.seccion {
+  width: 60%;
+  float: left;
+  margin: 20px;
+  box-sizing: border-box;
+}
+
+@media (max-width:768px) {
+  .seccion {
+    width: 90%;
+    margin: 20px auto;
+    float: none;
+  }
+}
+/* columna principal*/
+
+.columna {
+  background: #ccc;
+  padding: 20px;
+  margin: 20px 0;
+  width: 30%;
+  float: left;
+}
+
+@media (max-width:768px) {
+  .columna {
+    width: 90%;
+    margin: 20px auto;
+    float: none;
+    text-align: center;
+  }
+}
+/* pie de la pagina */
+.pie {
+  clear: both;
+  text-align: center;
+  padding: 20px;
+  border-top: 2px solid #999999;
+}
+
+/* articulo */
+article {
+  background: #fffbcc;
+  border: 1px solid #999999;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+article:hover {
+  background: #ccc;
+  transition: 2s ease;
+}
+
+article img {
+  width: 30%;
+}
+
+article footer {
+  text-align: right;
+}
+
+article footer .comentario{
+  background: #fff;
+}
+
+time {
+  color: #999999;
+}
+
+figcaption {
+  font: italic 14px verdana, sans-serif;
+}

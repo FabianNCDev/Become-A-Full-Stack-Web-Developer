@@ -1,14 +1,12 @@
 ## 100+ Recursos Gratuitos para ser un Desarrollador Web Full Stack
 
-The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
+La Lista de Abajo no son recursos exclusivos, Estos enlances son una series de recursos que me han ayudado a lo largo del camino (and can hopefully help you). Como ves, Me he enfocado en Javascript, React, y Node.js. Hay Mucha Información Incluso de como prepararse para entrevistar para obtener un puesto de Trabajo.
 
-I've still got a lot of bookmarks to go through, so I'll be updating and adding links as I go. If you have a contribution, please feel free to submit a PR!
-
+He tenio muchos recursos a lo largo del tiempo, Así que voy a ir Actualizandolos y Agrengadole Más Enlaces. Si tienes Alguna Contribución, porfavor sientete libre de enviar un PR!
 ---
-
-### Table of Contents
-1. **[Start Here](#start-here)**
-2. **[How to learn](#how-to-learn)**
+### Tabla de Contenidos
+1. **[Empieza Aquí](#empieza-aqui)**
+2. **[Como Aprender](#como-aprender)**
 3. **[What is the Most Useful CS Bookmark You have](#what-is-the-single-most-useful-cs-bookmark-you-have)**
 4. **[Programs & Classes](#programs-and-classes)**
 5. **[Learn HTML](#learn-html)**
@@ -30,19 +28,19 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
-### Start Here
-* Take a look at the big picture: 
-  * [Web Developer Roadpath - Github Repo](https://github.com/kamranahmedse/developer-roadmap)
-  * YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
-* Learn about the common tools associated with full stack web development - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
+### Empieza Aquí
+* Mira el Panorama General: 
+  * [El sendero del Desarrollador Web - Github Repo](https://github.com/kamranahmedse/developer-roadmap)
+  * YouTube video outlining what to learn (Similar al de arriba, pero en formato en video) - [Mira esto si quieres convertirte en desarrollador Web](https://www.youtube.com/watch?v=sBzRwzY7G-k)
+* Aprende de las Herramientas Comunes Asociadas con el Desarrollo Web FullStack - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
 * [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
 * What happens when you type google into your address bar? 
   * [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * Find a local Web Development related [Meetup!](https://www.meetup.com/) Don't worry, it's not as scary as you might think, and is one of the best ways to start learning
 ---
-### How to Learn
-* How to Learn.
+### Como Aprender
+* como-aprender
   * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
   * Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
 
